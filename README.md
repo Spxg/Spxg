@@ -7,11 +7,10 @@ Hi there. 👋
   - Blog: [一条咸鱼](https://spxg.me)
   - Telegram: [@SPXGE](https://t.me/SPXGE)
 
-- 💬 What does Spxg mean: It means nothing. Actually, I regret taking the name
+- 💬 What does Spxg mean: It means nothing. Actually, I regret taking the name.
 - ⚡ Fun fact: My english is very !good. ~~学英语是不可能学英语的，这辈子都不可能学英语的，这里个个都是人才，说话又好听。~~
 
 My todolist:
-- [] keep learning.
+- [ ] keep learning.
 - [x] [play stm32 with rust](https://github.com/play-stm32)  
-- [] be happy.
-
+- [ ] be happy.
