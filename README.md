@@ -11,6 +11,7 @@ Hi there. 👋
 - ⚡ Fun fact: My english is very !good. ~~学英语是不可能学英语的，这辈子都不可能学英语的，这里个个都是人才，说话又好听。~~
 
 My todolist:
-- [ ] keep learning.
 - [x] [play stm32 with rust](https://github.com/play-stm32)  
+- [ ] [rewrite fat32 crate](https://github.com/Spxg/fat32)  
+- [ ] keep learning.
 - [ ] be happy.
