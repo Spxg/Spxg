@@ -13,6 +13,6 @@ Hi there. 👋
 My todolist:
 - [x] [play stm32 with rust](https://github.com/play-stm32)
 - [x] [build a website by rust](https://github.com/pipe-fun)
-- [ ] [rewrite fat32 crate](https://github.com/Spxg/fat32)  
+- [x] [rewrite fat32 crate](https://github.com/Spxg/fat32)  
 - [ ] keep learning.
 - [ ] be happy.
