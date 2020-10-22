@@ -14,5 +14,6 @@ My todolist:
 - [x] [play stm32 with rust](https://github.com/play-stm32)
 - [x] [build a website by rust](https://github.com/pipe-fun)
 - [x] [rewrite fat32 crate](https://github.com/Spxg/fat32)  
+- [ ] learn data structure and algorithm. ~~怕不是要挂科了~~
 - [ ] keep learning.
 - [ ] be happy.
