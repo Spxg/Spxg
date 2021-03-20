@@ -14,7 +14,7 @@ My todolist:
 - [x] [play stm32](https://github.com/play-stm32)
 - [x] [build a website](https://github.com/pipe-fun)
 - [x] [rewrite fat32 crate](https://github.com/Spxg/fat32)
-- [ ] [write an os](https://github.com/Spxg/SOS) 
+- [ ] [write an os](https://github.com/NotYetOS) 
 - [ ] learn data structure and algorithm. ~~怕不是要挂科了~~
 - [ ] keep learning.
 - [ ] be happy.
