@@ -4,7 +4,7 @@ Hi there. 👋
 
 - :neckbeard: I’m currently learning [Rust](https://github.com/rust-lang/rust)
 - 📫 How to find me:
-  - Blog: [一条咸鱼](https://unsafe.me)
+  - Blog: [不安全的网站](https://unsafe.me)
   - Telegram: [@SPXGE](https://t.me/SPXGE)
 
 - 💬 What does Spxg mean: It means nothing. Actually, I regret taking the name.
